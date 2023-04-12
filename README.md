@@ -1,4 +1,1 @@
 # Simulador
-# Simulador
-# Simulador
-# Simulador
